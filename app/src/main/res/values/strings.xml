@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mondokin</string>
+    <string name="splash_screen">MONDOKIN</string>
+    <string name="title_home">Home</string>
+    <string name="title_maps">Maps</string>
+    <string name="title_search_terdekat">Terdekat</string>
+    <string name="halo">Assalaamualaikum,</string>
+    <string name="welcome">Selamat datang di Aplikasi</string>
+    <string name="kemana">Pencarian pondok pesantren di Yogyakarta</string>
+    <string name="cari">Cari...</string>
+    <string name="all">All</string>
+    <string name="view_maps">Pesantren</string>
+    <string name="daftar_pondok_pesantren">Daftar Pondok Pesantren</string>
+    <string name="gambar_pondok_pesantren">Gambar Pondok Pesantren</string>
+    <string name="nama">Nama Pondok Pesantren</string>
+    <string name="alamat">Alamat Pondok Pesantren</string>
+    <string name="profile">Profile</string>
+    <string name="lorem_opsum">Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum Lorem Opsum</string>
+    <string name="perunjuk_jalan">Petunjuk Jalan</string>
+    <string name="start_navigasi">Mulai Navigasi</string>
+    <string name="mapbox_access_token">sk.eyJ1Ijoic2loYWxvaG8iLCJhIjoiY2t5aHNnemp1MW83dTJvcWhpdnNvZG4xNSJ9.b65puayetnLdf2n5mWOK8A</string>
+    <string name="jarak">Jarak</string>
+    <string name="pondok_pesantren_jogja">Pondok Pesantren Jogja</string>
+    <string name="bantuan_aplikasi">Bantuan Aplikasi</string>
+    <string name="kesulitan_menggunakan_aplikasi">Kesulitan menggunakan aplikasi?</string>
+    <string name="help1">Buka aplikasi, cari tujuan pondok pesantren melalui fitur pencarian baik yang berada di menu home, maps ataupun terdekat.</string>
+    <string name="help2">Untuk menu terdekat, akan muncul izin untuk mengakses lokasi anda. setelah itu aktifkan lokasi anda. dan jika tidak muncul pondok pesantren terdekat, coba tutup aplikasi terlebih dahulu dan masuk kembali</string>
+    <string name="help3">Setelah menentukan tujuan dan meng-klik tujuan, anda akan di dihadapkan menu detail dari pondok pesantren tersebut, dan pada menu ini terdapat buttom petunjuk jalan</string>
+    <string name="help4">Jika anda sudah memutuskan dan meng-klik anda akan di bawa ke maps dari pondok pesantren tersebut. di menu ini terdapat buttom navigasi jika anda butuh petujuk jalan</string>
+    <string name="help5">Jika anda membutuhkan navigasi dan mengklik buttom navigasi aplikasi akan meminta izin untuk mengakses lokasi anda. lalu aktifkan lokasi anda dan anda akan di pandu menuju pondok pesantren tersebut.</string>
+</resources>

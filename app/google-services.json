@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778135931677",
+    "project_id": "mondokin-app",
+    "storage_bucket": "mondokin-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778135931677:android:9d71b286d9c63acbbc6ff4",
+        "android_client_info": {
+          "package_name": "com.ngodesain.mondokin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778135931677-tg44ael79j2tn6uf6a98ubob7f3j569v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAERCijbsLz5QYFmQuXCO2vUwjw9UkK6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778135931677-tg44ael79j2tn6uf6a98ubob7f3j569v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
